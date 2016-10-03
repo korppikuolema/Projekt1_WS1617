@@ -1,1 +1,40 @@
-<---->
+==============================================================================
+=== [Recherche zu IDE], v_[01], [2016-10-03] ===
+==============================================================================
+
+1. Was ist eine IDE? (laut Wikipedia https://de.wikipedia.org/wiki/Integrierte_Entwicklungsumgebung)
+
+woertlich uebersetzt = integrierte Entwicklungsumgebung
+
+bestehen ueblicherweise aus:
+
+- Texteditor (https://de.wikipedia.org/wiki/Texteditor)
+- Compiler (https://de.wikipedia.org/wiki/Compiler)
+- Linker (= im Beispiel Java werden durch den Linker z.B. die Funktionen einer Klasse zur main hinzugefuegt https://de.wikipedia.org/wiki/Linker_(Computerprogramm))
+- Debugger (= wird zum Finden und Diagnostizieren der Fehler im Code benoetigt https://de.wikipedia.org/wiki/Debugger)
+- Quelltextformatierungsfunktion (= sorgt fuer ein gut lesbares Format des Quelltextes https://de.wikipedia.org/wiki/Quelltextformatierung)
+
+oft auch enthalten:
+
+- Versionsverwaltung (https://de.wikipedia.org/wiki/Versionsverwaltung // fuer dieses Projekt sehr interessant)
+- Projektmanagement 
+- UML-Modellierung (https://de.wikipedia.org/wiki/Unified_Modeling_Language)
+- einfache Erstellung von GUI (grafischen Benutzeroberflaechen / https://de.wikipedia.org/wiki/Grafische_Benutzeroberfl%C3%A4che)
+
+Beispiele:
+
+- NetBeans (https://de.wikipedia.org/wiki/NetBeans_IDE / https://netbeans.org/)
+	Vorteile/Nachteile:
+
+- Notepad++ (https://de.wikipedia.org/wiki/Notepad%2B%2B / https://notepad-plus-plus.org/)
+	Vorteile/Nachteile:
+	- ohne Compiler
+	+ Einfachheit gerade fuer Anfaenger geeignet
+
+- Eclipse (https://de.wikipedia.org/wiki/Eclipse_(IDE) / https://eclipse.org/)
+	Vorteile/Nachteile:
+	- automatische Fehlererkennung -> steht dekonstruktiv zum Lerneffekt
+
+- Sublime (https://de.wikipedia.org/wiki/Sublime_Text / https://www.sublimetext.com/)
+	Vorteile/Nachteile:
+	- ohne Compiler
