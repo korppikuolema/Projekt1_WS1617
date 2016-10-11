@@ -1,5 +1,14 @@
 ==============================================================================
-=== [Recherche zu IDE], v_[01], [2016-10-03] ===
+=== [Projektentwurf], v_[01], [2016-10-11] ===
+==============================================================================
+
+Ich werde in meinem Projekt 1 eine integrierte Entwicklungsumgebung speziell für Studenten, die Java lernen, umsetzen.
+Die IDE soll den Lernerfolg der Studenten durch ihre Einfachheit steigern dh. es wird z.B. keine automatisch Fehlererkennung geben.
+Je nachdem wie weit der Student ist werden ihm weitere Lerneinheiten (z.B. Erklärung eines Begriffes) vorgeschlagen.
+Außerdem soll es ein Verzeichnis geben in dem die Studenten sich die vom Dozenten hinterlegten Skripte und Aufgaben direkt herunterladen können.
+
+==============================================================================
+=== [Recherche zu IDE], v_[02], [2016-10-11] ===
 ==============================================================================
 
 1. Was ist eine IDE? (laut Wikipedia https://de.wikipedia.org/wiki/Integrierte_Entwicklungsumgebung)
@@ -25,6 +34,7 @@ Beispiele:
 
 - NetBeans (https://de.wikipedia.org/wiki/NetBeans_IDE / https://netbeans.org/)
 	Vorteile/Nachteile:
+	- sehr komplex
 
 - Notepad++ (https://de.wikipedia.org/wiki/Notepad%2B%2B / https://notepad-plus-plus.org/)
 	Vorteile/Nachteile:
@@ -38,6 +48,7 @@ Beispiele:
 - Sublime (https://de.wikipedia.org/wiki/Sublime_Text / https://www.sublimetext.com/)
 	Vorteile/Nachteile:
 	- ohne Compiler
+	+ Begriffe werden farbig unterlegt und sind so einfacher zuzuordnen
 
 ===================================
 === Feedback Alpers, 2016-10-10 ===
