@@ -1,4 +1,17 @@
 ==============================================================================
+=== [Projektentwurf], v_[02], [2016-10-19] ===
+==============================================================================
+
+Ich werde in meinem Projekt 1 eine integrierte Entwicklungsumgebung speziell für Studenten, die Java lernen, umsetzen.
+- Texteditor (noch nicht umgesetzt)
+- Compiler (noch nicht umgesetzt)
+- Lernerfolg soll durch Einfachheit der IDE gesteigert werden (zb. keine Fehlererkennung) (noch nicht umgesetzt)
+- User werden weitere Lerneinheiten vorgeschlagen, kann ein- oder abgeschalten werden (noch nicht umgesetzt)
+- User kann Lerneinheiten zu Themen wählen (noch nicht umgesetzt)
+- Verzeichnis in dem vom Dozenten hinterlegte Skripte und Aufgaben gedownloaded werden können (noch nicht umgesetzt)
+
+
+==============================================================================
 === [Projektentwurf], v_[01], [2016-10-11] ===
 ==============================================================================
 
