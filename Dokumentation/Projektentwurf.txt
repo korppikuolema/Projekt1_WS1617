@@ -80,3 +80,74 @@ Dass Sie die Ergebnisse der Recherche in dieser Datei eingetragen haben ist gut.
 Was nicht gut ist, ist dass Sie die Datei falsch benannt haben. Es fehlt die Dateiendung.
 
 Außerdem fehlt aktuell die in der Aufgabenbeschreibung genannte Verzeichnisstrukur.
+
+===================================
+=== Feedback Alpers, 2016-10-24 ===
+===================================
+
+== I.) Umfang der Änderungen seit letzten Feedback bei weitem zu gering.
+
+In vierzehn Tagen haben Sie die folgenden sechs Zeilen ausformuliert:
+
+- Texteditor (noch nicht umgesetzt)
+- Compiler (noch nicht umgesetzt)
+- Lernerfolg soll durch Einfachheit der IDE gesteigert werden (zb. keine Fehlererkennung) (noch nicht umgesetzt)
+- User werden weitere Lerneinheiten vorgeschlagen, kann ein- oder abgeschalten werden (noch nicht umgesetzt)
+- User kann Lerneinheiten zu Themen wählen (noch nicht umgesetzt)
+- Verzeichnis in dem vom Dozenten hinterlegte Skripte und Aufgaben gedownloaded werden können (noch nicht umgesetzt)
+
+Das ist bei weitem zu wenig. 
+
+== II.) Inhalt der Beschreibung behandelt kaum die relevanten Teile
+
+Sie haben an dieser Stelle den essentiellen Teil dieser Aufgabe leider kaum bearbeitet:
+
+(Siehe Aufgabenstellung 2.1:
+...
+- Die Beschreibung soll aus Stichpunkten bestehen, von denen jeder ein für die Programmierung relevantes Detail enthält.
+...)
+
+Der erste Teil der Programmierung wird die Umsetzung der Struktur sein. Dazu müssen Sie sich überlegen, was das Programm alles an Möglichkeiten anbieten soll. Schauen wir uns Ihre bisherige Aufstellung an:
+
+- Texteditor (noch nicht umgesetzt)
+
+ist einer von zwei Teilen, die sich auf die Struktur bezieht. Hier sind Sie aber bei weitem zu allgemein. Woraus besteht der Editor? Was bietet er alles an?
+
+- Compiler (noch nicht umgesetzt)
+
+den entwickeln Sie nicht selbst. Er ist Teil der Programmiersprache.
+
+- Lernerfolg soll durch Einfachheit der IDE gesteigert werden (zb. keine Fehlererkennung) (noch nicht umgesetzt)
+
+Ist eine Designvorgabe.
+
+- User werden weitere Lerneinheiten vorgeschlagen, kann ein- oder abgeschalten werden (noch nicht umgesetzt)
+
+Das ist eine nette Ergänzung zu einer IDE für Einsteiger, aber bevor Sie die ergänzen können, müssen Sie sie erstmal entwickeln. Und daran haben Sie noch nicht gerabeitet.
+
+- User kann Lerneinheiten zu Themen wählen (noch nicht umgesetzt)
+
+Gut, das ist nützlich für die nächsten Schritte der Entwicklung.
+
+- Verzeichnis in dem vom Dozenten hinterlegte Skripte und Aufgaben gedownloaded werden können (noch nicht umgesetzt)
+
+Alle Dateien (wirklich alle) werden in Verzeichnissen gespeichert. Das beschreibt also keinen Teil Ihres Projekts, sondern etwas, das bereits von einem Betriebssystem erledigt wird. Aber Sie haben hier implizit einen wichtigen Punkt aufgeführt, der zu den Details der späteren Programmierung gehört.
+
+== III.) Fazit
+
+Bei Ihnen zeigt sich genau das, wovor ich Sie alle immer wieder warne: Wenn Sie sich nur alle zwei Wochen mal ans Projekt setzen, dann kommt dabei kaum etwas heraus. Und genau so ist das auch bei Ihnen: Bislang sagen Sie effektiv nichts darüber aus, was Sie später als IDE umsetzen werden. Denn dass eine IDE einen Texteditor enthält macht sie eben noch lange nicht zur IDE. Zwar gehört zu einer IDE, dass sie Compiler nutzt, aber den entwickeln Entwickler einer IDE nicht selbst.
+
+Beachten Sie auch, dass Lerneinheiten ein nettes Gimmick sind, aber sie machen erst dann Sinn, wenn die eigentliche IDE grundlegend steht.
+
+Abschließend nochmal die Warnung bezüglich Fehlversuchen: Wenn Sie weiterhin derart wenig Zeit in das Projekt investieren, dann wird es bereits beim nächsten Feedback als Fehlversuch gewertet.
+
+=================================================
+=== Wertung 2: Projektentwurf: gesamt: 0 / 10 ===
+=================================================
+- Knappe aber klare Beschreibung 0 bis 5 Pk.: 1 
+- Pro Strategie des Computers, die die individuellen Züge des Spielers/Nutzers adaptiert 0 bis 5 Pk.: 0 
+=== (Malus beim Projektentwurf) ===
+- Werbeslogans u.ä. -5 bis 0 Pk.: 0 
+- Designaspekte -5 bis 0 Pk.: -1 
+- Voraussetzung bekannten Wissens -5 bis 0 Pk.: 0 
+(Dies ist keine abschließende Wertung.)
