@@ -1,8 +1,8 @@
 ==============================================================================
-=== [Projektentwurf], v_[05], [2016-10-29] ===
+=== [Projektentwurf], v_[06], [2016-10-31] ===
 ==============================================================================
 
-Ich werde in meinem Projekt 1 eine webbasierte integrierte Entwicklungsumgebung speziell für Studenten, die Java lernen, umsetzen.
+Ich werde in meinem Projekt 1 eine webbasierte unkomplizierte integrierte Entwicklungsumgebung speziell für Studenten, die Java lernen, umsetzen.
 
 Texteditor (noch nicht umgesetzt):
 	- Textfenster (noch nicht umgesetzt)
@@ -19,8 +19,8 @@ Texteditor (noch nicht umgesetzt):
 		- Syntaxkorrektur (noch nicht umgesetzt)
 		- Freigeben für Zusammenarbeit mit Kommilitonen (noch nicht umgesetzt)
 		- Contributorliste (noch nicht umgesetzt)
-		(- Weiterleitung zu Emil (noch unsicher ob sinnvoll))
 	- Registerkarten (noch nicht umgesetzt)
+	
 Kommandozeileninterpreter
 	- Textfenster (noch nicht umgesetzt)
 		
