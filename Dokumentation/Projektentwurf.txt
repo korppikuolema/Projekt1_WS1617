@@ -18,7 +18,7 @@ Texteditor (noch nicht umgesetzt):
 		- Darstellungsoptionen (noch nicht umgesetzt)
 		- Syntaxkorrektur (noch nicht umgesetzt)
 		- Freigeben für Zusammenarbeit mit Kommilitonen (noch nicht umgesetzt)
-		- Contributorliste (noch nicht umgesetzt)
+		
 	- Registerkarten (noch nicht umgesetzt)
 	
 Kommandozeileninterpreter
