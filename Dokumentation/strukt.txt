@@ -1,0 +1,27 @@
+===========================================================
+=== Strukturelle Elemente, [2016-11-03] ===
+===========================================================
+
+== 01 input/text ==
+
+    01_01 type=code / User gibt Code ein
+    01_02 type=commands / User gibt Kommandozeilen ein
+    01_03 type=email / User gibt E-Mail des Contributors ein
+    01_04 type=name / User gibt Dateinamen ein
+    01_05 type=search / User gibt Begriff für Suche ein
+    01_06 type=replace / User gibt ersetzenden Begriff ein
+    
+== 02 input/submit ==
+    
+    02_01 submit
+    
+== 03 Label ==
+== 04 Schaltflächen ==
+
+    04_01 kopieren / Auswahl wird kopiert
+    04_02 einfügen / Auswahl wird eingefügt
+    04_03 rückgängig / letzer Schritt wird rückgängig gemacht
+    04_04 wiederholen / rückgängig gemacht Schritt wird wieder hergestellt
+    
+== 05 Formulare ==
+== 06 Links ==
