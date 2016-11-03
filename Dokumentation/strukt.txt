@@ -4,12 +4,10 @@
 
 == 01 input/text ==
 
-    01_01 type=code / User gibt Code ein
-    01_02 type=commands / User gibt Kommandozeilen ein
-    01_03 type=email / User gibt E-Mail des Contributors ein
-    01_04 type=name / User gibt Dateinamen ein
-    01_05 type=search / User gibt Begriff für Suche ein
-    01_06 type=replace / User gibt ersetzenden Begriff ein
+    01_01 type=text / User gibt Code ein
+    01_02 type=text / User gibt Kommandozeilen ein
+    01_04 type=text / User gibt Dateinamen ein
+    01_06 type=text / User gibt ersetzenden Begriff ein
     
 == 02 input/submit ==
     
@@ -23,5 +21,14 @@
     04_03 rückgängig / letzer Schritt wird rückgängig gemacht
     04_04 wiederholen / rückgängig gemacht Schritt wird wieder hergestellt
     
-== 05 Formulare ==
+== 05 input/radio ==
 == 06 Links ==
+== 07 input/email ==
+
+    07_01 type=email / User gibt E-Mail des Contributors ein
+
+== 08 input/search ==
+    
+    08_01 type=search / User gibt Begriff für Suche ein
+    
+== 09 input/checkbox ==
