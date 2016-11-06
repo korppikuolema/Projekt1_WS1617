@@ -11,18 +11,41 @@
     
 == 02 input/submit ==
     
-    02_01 submit
+    02_01 submit / User bestätigt Eingabe
     
 == 03 Label ==
+
+    03_01 code
+    03_02 kommandoZeilen
+    03_03 dateinamen
+    03_04 ersetzeBegriff
+    03_05 e-Mail
+    03_06 suche
+    03_07 syntaxhighlighting
+    03_08 schriftGroß
+    03_09 schriftKlein
+    
 == 04 Schaltflächen ==
 
     04_01 kopieren / Auswahl wird kopiert
     04_02 einfügen / Auswahl wird eingefügt
     04_03 rückgängig / letzer Schritt wird rückgängig gemacht
-    04_04 wiederholen / rückgängig gemacht Schritt wird wieder hergestellt
+    04_04 wiederholen / rückgängig gemachter Schritt wird wieder hergestellt
     
 == 05 input/radio ==
+
+    05_01 syntaxEin / Syntaxkorrektur soll eingeschaltet werden
+    05_02 syntaxAus / Syntaxkorrektur soll ausgeschaltet werden
+    
 == 06 Links ==
+
+    06_01 syntaxKorrektur
+    06_02 oeffneDatei
+    06_03 saveAs
+    06_04 freigebenFuer
+    06_05 ersetzen
+    06_06 darstellungsOptionen
+    
 == 07 input/email ==
 
     07_01 type=email / User gibt E-Mail des Contributors ein
@@ -32,3 +55,7 @@
     08_01 type=search / User gibt Begriff für Suche ein
     
 == 09 input/checkbox ==
+
+    09_01 syntaxhighlighting 
+    09_02 schriftGroß
+    09_03 schriftKlein
